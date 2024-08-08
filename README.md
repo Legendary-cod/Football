@@ -1,2 +1,2 @@
 # Coding stuff
- Coding if fun.Praise GOD
+ Coding is fun
